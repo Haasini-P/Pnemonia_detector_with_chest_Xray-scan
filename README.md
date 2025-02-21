@@ -56,8 +56,11 @@ Access the web interface at `http://localhost:5000/`.
 - Deploy as a cloud-based API for real-world usability.
 - Improve explainability with heatmaps for visualization.
 
-## Contributors
-- **Your Name** (your.email@example.com)
+## Train the Model
+If you don’t have the model file, train it by running:
+```bash
+python train.py
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Contributors
+- **P.Haasini** (haasinip1111@gmail.com)
+
